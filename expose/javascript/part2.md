@@ -32,3 +32,4 @@
 16. other file.
 17. it will result an array[2,4,6], as it changed by function doSomething. the modifyArray takes the array and callback as argument and creates new array, and loops through the input array, calling the callback function and pushes back to the newArray. where in the callback function, it multiplies each integer in the array by 2.
 18. other file
+19. 1 4 3 2
