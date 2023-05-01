@@ -29,4 +29,6 @@
     E: false, == operation converts true to 1, and 1 is not equal to 2.
     F: true, Boolean(2) is true true === true is true, and true =1 , both boolean.
 15. == is loose equality operation, compares the operand after converting one side to the same type. === is strict equality operation, it checks both sides are the same type or same value, needs both conditions to be true to return true.
-16. 
+16. other file.
+17. it will result an array[2,4,6], as it changed by function doSomething. the modifyArray takes the array and callback as argument and creates new array, and loops through the input array, calling the callback function and pushes back to the newArray. where in the callback function, it multiplies each integer in the array by 2.
+18. other file
